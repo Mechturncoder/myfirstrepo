@@ -1,2 +1,3 @@
 # myfirstrepo
-This is my first Github project
+This is my first Git repository
+Author - Ankit mishra
